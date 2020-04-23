@@ -10,7 +10,7 @@ jobs:
 
   fmt:
     name: Fmt
-    runs-on: ubntu-latest
+    runs-on: ubuntu-latest
     steps:
     
     - name: Set up Go 1.13 for fmt
