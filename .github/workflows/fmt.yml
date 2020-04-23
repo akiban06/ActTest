@@ -31,4 +31,4 @@ jobs:
           fi
 
       - name: Fmt
-        run: go fmt -v .
+        run: go fmt .
